@@ -21,10 +21,16 @@ public class CameraControlExam06 : MonoBehaviour
         targetCamera.transform.position = avgPos;
 
         //Set CameraSize
-        float cameraToWorldLengh = Screen.width / Screen.height;
+        float width = Screen.width;
+        float height = Screen.height;
+
+        //float cameraToWorldLengh = width / height;
+        float cameraToWorldLengh = Mathf.Max(width / height, height / width);
 
         float p1DistanceFormCam = player2Pos.x - targetCamera.transform.position.x;
         float p2DistanceFormCam = player2Pos.z - targetCamera.transform.position.z;
+        p1DistanceFormCam *= cameraToWorldLengh;
+        p2DistanceFormCam *= cameraToWorldLengh;
         p1DistanceFormCam = Mathf.Abs(p1DistanceFormCam);
         p2DistanceFormCam = Mathf.Abs(p2DistanceFormCam);
 
