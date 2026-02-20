@@ -28,6 +28,11 @@ public class WaveSpawnManagerExam04 : MonoBehaviour
             if (currentWave >= waveConfigurations.Length)
             {
                 Debug.Log("All waves completed!");
+                if (enableWaveCycling)
+                {
+                    currentWave = 0;
+                    waveController.StartWave(waveConfigurations[currentWave]);
+                }
             }
             else
             {

@@ -14,10 +14,16 @@ public class PlayerControllerExam03 : MonoBehaviour
     private InputAction moveAction;
     private InputAction shootAction;
 
+    private float nextTimeToFire;
+
     private void Awake()
     {
         moveAction = InputSystem.actions.FindAction("Move");
         shootAction = InputSystem.actions.FindAction("Shoot");
+
+        moveAction?.Enable();
+        shootAction?.Enable();
+        nextTimeToFire = Time.time;
     }
 
     // Update is called once per frame
@@ -38,6 +44,13 @@ public class PlayerControllerExam03 : MonoBehaviour
         if (shootAction.triggered)
         {
             Instantiate(projectilePrefab, transform.position, transform.rotation);
+        }
+        
+        float t = Time.time;
+        if (enableAutoFireMode && t >= nextTimeToFire)
+        {
+            Instantiate(projectilePrefab, transform.position, transform.rotation);
+            nextTimeToFire = t + autoFireInterval;
         }
     }
 }

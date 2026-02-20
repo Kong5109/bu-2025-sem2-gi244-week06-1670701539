@@ -19,6 +19,7 @@ public class PlayerControllerExam06 : MonoBehaviour
     private void Awake()
     {
         moveAction = InputSystem.actions.FindAction("Move");
+        moveAction?.Enable();
     }
 
     // Update is called once per frame
