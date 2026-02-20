@@ -3,35 +3,31 @@
   "WorkspaceRootPath": "C:\\Users\\Administrator\\Downloads\\bu-2025-sem2-gi244-week06-1670701539\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C660AAFD-7F06-995B-6482-6B4C098FA79D}|Assembly-CSharp.csproj|C:\\Users\\Administrator\\Downloads\\bu-2025-sem2-gi244-week06-1670701539\\assets\\scripts\\exam\\wavespawnmanagerexam04.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C660AAFD-7F06-995B-6482-6B4C098FA79D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\exam\\wavespawnmanagerexam04.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C660AAFD-7F06-995B-6482-6B4C098FA79D}|Assembly-CSharp.csproj|C:\\Users\\Administrator\\Downloads\\bu-2025-sem2-gi244-week06-1670701539\\assets\\scripts\\exam\\playercontrollerexam02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C660AAFD-7F06-995B-6482-6B4C098FA79D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\exam\\playercontrollerexam02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C660AAFD-7F06-995B-6482-6B4C098FA79D}|Assembly-CSharp.csproj|c:\\users\\administrator\\downloads\\bu-2025-sem2-gi244-week06-1670701539\\assets\\scripts\\exam\\cameracontrolexam06.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C660AAFD-7F06-995B-6482-6B4C098FA79D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\exam\\cameracontrolexam06.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C660AAFD-7F06-995B-6482-6B4C098FA79D}|Assembly-CSharp.csproj|c:\\users\\administrator\\downloads\\bu-2025-sem2-gi244-week06-1670701539\\assets\\scripts\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C660AAFD-7F06-995B-6482-6B4C098FA79D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C660AAFD-7F06-995B-6482-6B4C098FA79D}|Assembly-CSharp.csproj|C:\\Users\\Administrator\\Downloads\\bu-2025-sem2-gi244-week06-1670701539\\assets\\scripts\\exam\\playercontrollerexam05.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C660AAFD-7F06-995B-6482-6B4C098FA79D}|Assembly-CSharp.csproj|c:\\users\\administrator\\downloads\\bu-2025-sem2-gi244-week06-1670701539\\assets\\scripts\\exam\\playercontrollerexam05.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C660AAFD-7F06-995B-6482-6B4C098FA79D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\exam\\playercontrollerexam05.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C660AAFD-7F06-995B-6482-6B4C098FA79D}|Assembly-CSharp.csproj|C:\\Users\\Administrator\\Downloads\\bu-2025-sem2-gi244-week06-1670701539\\assets\\scripts\\exam\\playercontrollerexam06.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C660AAFD-7F06-995B-6482-6B4C098FA79D}|Assembly-CSharp.csproj|c:\\users\\administrator\\downloads\\bu-2025-sem2-gi244-week06-1670701539\\assets\\scripts\\exam\\playercontrollerexam06.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C660AAFD-7F06-995B-6482-6B4C098FA79D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\exam\\playercontrollerexam06.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C660AAFD-7F06-995B-6482-6B4C098FA79D}|Assembly-CSharp.csproj|C:\\Users\\Administrator\\Downloads\\bu-2025-sem2-gi244-week06-1670701539\\assets\\scripts\\exam\\playercontrollerexam03.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C660AAFD-7F06-995B-6482-6B4C098FA79D}|Assembly-CSharp.csproj|c:\\users\\administrator\\downloads\\bu-2025-sem2-gi244-week06-1670701539\\assets\\scripts\\exam\\wavespawnmanagerexam04.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C660AAFD-7F06-995B-6482-6B4C098FA79D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\exam\\wavespawnmanagerexam04.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C660AAFD-7F06-995B-6482-6B4C098FA79D}|Assembly-CSharp.csproj|c:\\users\\administrator\\downloads\\bu-2025-sem2-gi244-week06-1670701539\\assets\\scripts\\exam\\playercontrollerexam03.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C660AAFD-7F06-995B-6482-6B4C098FA79D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\exam\\playercontrollerexam03.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C660AAFD-7F06-995B-6482-6B4C098FA79D}|Assembly-CSharp.csproj|C:\\Users\\Administrator\\Downloads\\bu-2025-sem2-gi244-week06-1670701539\\assets\\scripts\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C660AAFD-7F06-995B-6482-6B4C098FA79D}|Assembly-CSharp.csproj|c:\\users\\administrator\\downloads\\bu-2025-sem2-gi244-week06-1670701539\\assets\\scripts\\exam\\playercontrollerexam02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C660AAFD-7F06-995B-6482-6B4C098FA79D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\exam\\playercontrollerexam02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C660AAFD-7F06-995B-6482-6B4C098FA79D}|Assembly-CSharp.csproj|c:\\users\\administrator\\downloads\\bu-2025-sem2-gi244-week06-1670701539\\assets\\scripts\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C660AAFD-7F06-995B-6482-6B4C098FA79D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -42,24 +38,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "GameState.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\bu-2025-sem2-gi244-week06-1670701539\\Assets\\Scripts\\GameState.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\GameState.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Downloads\\bu-2025-sem2-gi244-week06-1670701539\\Assets\\Scripts\\GameState.cs",
-              "RelativeToolTip": "Assets\\Scripts\\GameState.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-20T09:05:33.732Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "PlayerControllerExam06.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\bu-2025-sem2-gi244-week06-1670701539\\Assets\\Scripts\\Exam\\PlayerControllerExam06.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Exam\\PlayerControllerExam06.cs",
@@ -67,24 +50,25 @@
               "RelativeToolTip": "Assets\\Scripts\\Exam\\PlayerControllerExam06.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-20T08:25:43.76Z"
+              "WhenOpened": "2026-02-20T08:25:43.76Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "CameraControlExam06.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\bu-2025-sem2-gi244-week06-1670701539\\Assets\\Scripts\\Exam\\CameraControlExam06.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Exam\\CameraControlExam06.cs",
               "ToolTip": "C:\\Users\\Administrator\\Downloads\\bu-2025-sem2-gi244-week06-1670701539\\Assets\\Scripts\\Exam\\CameraControlExam06.cs",
               "RelativeToolTip": "Assets\\Scripts\\Exam\\CameraControlExam06.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABTAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-20T08:24:00.175Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "PlayerControllerExam05.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\bu-2025-sem2-gi244-week06-1670701539\\Assets\\Scripts\\Exam\\PlayerControllerExam05.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Exam\\PlayerControllerExam05.cs",
@@ -92,24 +76,25 @@
               "RelativeToolTip": "Assets\\Scripts\\Exam\\PlayerControllerExam05.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAA5wDAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-20T08:14:59.252Z"
+              "WhenOpened": "2026-02-20T08:14:59.252Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "WaveSpawnManagerExam04.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\bu-2025-sem2-gi244-week06-1670701539\\Assets\\Scripts\\Exam\\WaveSpawnManagerExam04.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Exam\\WaveSpawnManagerExam04.cs",
               "ToolTip": "C:\\Users\\Administrator\\Downloads\\bu-2025-sem2-gi244-week06-1670701539\\Assets\\Scripts\\Exam\\WaveSpawnManagerExam04.cs",
               "RelativeToolTip": "Assets\\Scripts\\Exam\\WaveSpawnManagerExam04.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-20T08:09:49.916Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "PlayerControllerExam03.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\bu-2025-sem2-gi244-week06-1670701539\\Assets\\Scripts\\Exam\\PlayerControllerExam03.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Exam\\PlayerControllerExam03.cs",
@@ -117,11 +102,12 @@
               "RelativeToolTip": "Assets\\Scripts\\Exam\\PlayerControllerExam03.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-20T08:04:12.92Z"
+              "WhenOpened": "2026-02-20T08:04:12.92Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "Food.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\bu-2025-sem2-gi244-week06-1670701539\\Assets\\Scripts\\Food.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Food.cs",
@@ -129,17 +115,18 @@
               "RelativeToolTip": "Assets\\Scripts\\Food.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-20T08:03:48.426Z"
+              "WhenOpened": "2026-02-20T08:03:48.426Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "PlayerControllerExam02.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\bu-2025-sem2-gi244-week06-1670701539\\Assets\\Scripts\\Exam\\PlayerControllerExam02.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Exam\\PlayerControllerExam02.cs",
               "ToolTip": "C:\\Users\\Administrator\\Downloads\\bu-2025-sem2-gi244-week06-1670701539\\Assets\\Scripts\\Exam\\PlayerControllerExam02.cs",
               "RelativeToolTip": "Assets\\Scripts\\Exam\\PlayerControllerExam02.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-20T07:56:40.268Z",
               "EditorCaption": ""
